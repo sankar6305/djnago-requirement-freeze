@@ -1,0 +1,1 @@
+# djnago-requirement-freeze
